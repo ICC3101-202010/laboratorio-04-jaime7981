@@ -1,0 +1,5 @@
+a.- Se hubiera tenido que copiar el mismo método en todas las clases (En el caso de hacerlo con clases abstractas)
+b.- Haber ocupado clases abstractas nos hubiera obligado a hacer que todas las clases implementen el método tal cual, 
+pero en el caso de que una máquina tenga alguna disfunción o alguna acción que no pueda aplicar respecto a otras,
+tendrá problemas.
+c.- Sabe por como está instanciado

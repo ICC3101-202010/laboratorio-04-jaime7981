@@ -1,0 +1,7 @@
+C:\Users\jaime\Desktop\POO\POOMachines\bin\Debug\POOMachines.exe.config
+C:\Users\jaime\Desktop\POO\POOMachines\bin\Debug\POOMachines.exe
+C:\Users\jaime\Desktop\POO\POOMachines\bin\Debug\POOMachines.pdb
+C:\Users\jaime\Desktop\POO\POOMachines\obj\Debug\POOMachines.csprojAssemblyReference.cache
+C:\Users\jaime\Desktop\POO\POOMachines\obj\Debug\POOMachines.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\POO\POOMachines\obj\Debug\POOMachines.exe
+C:\Users\jaime\Desktop\POO\POOMachines\obj\Debug\POOMachines.pdb
